@@ -1,3 +1,5 @@
+[![Certified by mcpreview.com](https://img.shields.io/badge/Postgres%20MCP%20Server-Certified%20by%20mcpreview.com-greeen?logo=postgresql&logoColor=white)](https://mcpreview.com/mcp-servers/aadarshjain/postgres-mcp-server)
+
 # PostgreSQL MCP Server
 
 A Model Context Protocol (MCP) server implementation for PostgreSQL database exploration and querying.
@@ -147,3 +149,5 @@ Claude will use the appropriate MCP tools to answer these questions by querying 
 ## Contact
 
 Feel free to raise issue on this repository.
+
+> **SSE and Streamable-HTTP postgres-mcp-server is under development....**
